@@ -4,7 +4,7 @@
 
 [Revit 2026 설치용 ZIP 다운로드](https://github.com/yulmoo99/KoreaTerrain/raw/refs/heads/main/downloads/KoreaTerrain-0.3-Revit2026.zip)
 
-위 ZIP을 내려받아 압축을 풀고, Revit을 종료한 뒤 `Install.cmd`를 실행하세요. GitHub의 **Code → Download ZIP**은 소스 코드이며, 실행 파일은 위 설치용 ZIP에 들어 있습니다. Revit 2025는 아직 빌드·실행을 검증하지 않았습니다.
+위 ZIP을 내려받아 압축을 풀고, Revit을 종료한 뒤 `Install.cmd`를 실행하세요. GitHub의 **Code → Download ZIP**으로 받은 소스 폴더에서도 `Install.cmd`를 실행할 수 있습니다. DLL이 없으면 `downloads`에 포함된 설치용 ZIP을 자동으로 풀어 설치합니다. 압축 파일 안에서 바로 실행하지 말고 폴더 전체를 먼저 풀어주세요. Revit 2025는 아직 빌드·실행을 검증하지 않았습니다.
 ## 0.3 수정 내용
 
 - 도로 조회가 실패해도 먼저 받아온 지형을 표시하고 유지합니다. 필지 조회 실패도 지형·도로를 지우지 않습니다.
@@ -125,4 +125,5 @@
 - [Open Topo Data SRTM 자료 안내](https://www.opentopodata.org/datasets/srtm/)
 - [Open Topo Data API와 이용량 제한](https://www.opentopodata.org/)
 - [Autodesk Toposolid 개발 문서](https://help.autodesk.com/cloudhelp/2026/ENU/Revit-API/files/Revit_API_Developers_Guide/Discipline_Specific_Functionality/Revit_API_Revit_API_Developers_Guide_Discipline_Specific_Functionality_Site_html.html)
+
 
