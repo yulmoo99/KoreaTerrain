@@ -1,0 +1,2616 @@
+{
+  "Center": {
+    "Latitude": 37.567271983583716,
+    "Longitude": 127.00579256203822
+  },
+  "Width": 500,
+  "Spacing": 31.25,
+  "Side": 17,
+  "Points": [
+    {
+      "East": -250,
+      "North": -250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -250,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -250,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -250,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -250,
+      "Elevation": 39,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -250,
+      "Elevation": 41,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -250,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -250,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -250,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -250,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -250,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -250,
+      "Elevation": 36,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -250,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.56501949399312,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -218.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -218.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -218.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -218.75,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -218.75,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -218.75,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -218.75,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -218.75,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -218.75,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -218.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -218.75,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -218.75,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -218.75,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.565301055191945,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -187.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -187.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -187.5,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -187.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -187.5,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -187.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -187.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -187.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -187.5,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -187.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -187.5,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -187.5,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -187.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -187.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -187.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -187.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -187.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56558261639077,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -156.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -156.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -156.25,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -156.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -156.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -156.25,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -156.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -156.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -156.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -156.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -156.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -156.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -156.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -156.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -156.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -156.25,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -156.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.565864177589596,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -125,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -125,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -125,
+      "Elevation": 36,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -125,
+      "Elevation": 42,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -125,
+      "Elevation": 47,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -125,
+      "Elevation": 40,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -125,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -125,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -125,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -125,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -125,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.566145738788414,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -93.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -93.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -93.75,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -93.75,
+      "Elevation": 41,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -93.75,
+      "Elevation": 43,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -93.75,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -93.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -93.75,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -93.75,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -93.75,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -93.75,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -93.75,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -93.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -93.75,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -93.75,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.56642729998724,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -62.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -62.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -62.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -62.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -62.5,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -62.5,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -62.5,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -62.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -62.5,
+      "Elevation": 24,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -62.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -62.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -62.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -62.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -62.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -62.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -62.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -62.5,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.566708861186065,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": -31.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": -31.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": -31.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": -31.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": -31.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": -31.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": -31.25,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": -31.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": -31.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": -31.25,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": -31.25,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": -31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56699042238489,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 0,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 0,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 0,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 0,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 0,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 0,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 0,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 0,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 0,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 0,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 0,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 0,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 0,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 0,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 0,
+      "Elevation": 40,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 0,
+      "Elevation": 46,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 0,
+      "Elevation": 44,
+      "Location": {
+        "Latitude": 37.567271983583716,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 31.25,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 31.25,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 31.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 31.25,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 31.25,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 31.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 31.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 31.25,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 31.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 31.25,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 31.25,
+      "Elevation": 36,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 31.25,
+      "Elevation": 39,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 31.25,
+      "Elevation": 53,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 31.25,
+      "Elevation": 68,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 31.25,
+      "Elevation": 62,
+      "Location": {
+        "Latitude": 37.56755354478254,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 62.5,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 62.5,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 62.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 62.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 62.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 62.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 62.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 62.5,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 62.5,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 62.5,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 62.5,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 62.5,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 62.5,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 62.5,
+      "Elevation": 44,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 62.5,
+      "Elevation": 64,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 62.5,
+      "Elevation": 81,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 62.5,
+      "Elevation": 76,
+      "Location": {
+        "Latitude": 37.567835105981366,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 93.75,
+      "Elevation": 24,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 93.75,
+      "Elevation": 24,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 93.75,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 93.75,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 93.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 93.75,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 93.75,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 93.75,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 93.75,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 93.75,
+      "Elevation": 39,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 93.75,
+      "Elevation": 49,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 93.75,
+      "Elevation": 64,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 93.75,
+      "Elevation": 77,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 93.75,
+      "Elevation": 75,
+      "Location": {
+        "Latitude": 37.56811666718019,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 125,
+      "Elevation": 24,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 125,
+      "Elevation": 23,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 125,
+      "Elevation": 24,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 125,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 125,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 125,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 125,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 125,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 125,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 125,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 125,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 125,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 125,
+      "Elevation": 41,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 125,
+      "Elevation": 49,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 125,
+      "Elevation": 59,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 125,
+      "Elevation": 73,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 125,
+      "Elevation": 74,
+      "Location": {
+        "Latitude": 37.56839822837902,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 156.25,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 156.25,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 156.25,
+      "Elevation": 25,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 156.25,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 156.25,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 156.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 156.25,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 156.25,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 156.25,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 156.25,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 156.25,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 156.25,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 156.25,
+      "Elevation": 39,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 156.25,
+      "Elevation": 44,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 156.25,
+      "Elevation": 49,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 156.25,
+      "Elevation": 67,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 156.25,
+      "Elevation": 66,
+      "Location": {
+        "Latitude": 37.568679789577835,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 187.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 187.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 187.5,
+      "Elevation": 26,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 187.5,
+      "Elevation": 27,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 187.5,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 187.5,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 187.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 187.5,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 187.5,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 187.5,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 187.5,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 187.5,
+      "Elevation": 40,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 187.5,
+      "Elevation": 39,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 187.5,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 187.5,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 187.5,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 187.5,
+      "Elevation": 56,
+      "Location": {
+        "Latitude": 37.56896135077666,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 218.75,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 218.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 218.75,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 218.75,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 218.75,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 218.75,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 218.75,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 218.75,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 218.75,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 218.75,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 218.75,
+      "Elevation": 38,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 218.75,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 218.75,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 218.75,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 218.75,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 218.75,
+      "Elevation": 44,
+      "Location": {
+        "Latitude": 37.569242911975486,
+        "Longitude": 127.00862234320128
+      }
+    },
+    {
+      "East": -250,
+      "North": 250,
+      "Elevation": 28,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00296278087517
+      }
+    },
+    {
+      "East": -218.75,
+      "North": 250,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00331650352055
+      }
+    },
+    {
+      "East": -187.5,
+      "North": 250,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00367022616594
+      }
+    },
+    {
+      "East": -156.25,
+      "North": 250,
+      "Elevation": 29,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00402394881132
+      }
+    },
+    {
+      "East": -125,
+      "North": 250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.0043776714567
+      }
+    },
+    {
+      "East": -93.75,
+      "North": 250,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00473139410208
+      }
+    },
+    {
+      "East": -62.5,
+      "North": 250,
+      "Elevation": 34,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00508511674747
+      }
+    },
+    {
+      "East": -31.25,
+      "North": 250,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00543883939284
+      }
+    },
+    {
+      "East": 0,
+      "North": 250,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00579256203822
+      }
+    },
+    {
+      "East": 31.25,
+      "North": 250,
+      "Elevation": 33,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00614628468361
+      }
+    },
+    {
+      "East": 62.5,
+      "North": 250,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00650000732898
+      }
+    },
+    {
+      "East": 93.75,
+      "North": 250,
+      "Elevation": 37,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00685372997437
+      }
+    },
+    {
+      "East": 125,
+      "North": 250,
+      "Elevation": 35,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00720745261975
+      }
+    },
+    {
+      "East": 156.25,
+      "North": 250,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00756117526512
+      }
+    },
+    {
+      "East": 187.5,
+      "North": 250,
+      "Elevation": 30,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00791489791051
+      }
+    },
+    {
+      "East": 218.75,
+      "North": 250,
+      "Elevation": 32,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.0082686205559
+      }
+    },
+    {
+      "East": 250,
+      "North": 250,
+      "Elevation": 31,
+      "Location": {
+        "Latitude": 37.56952447317431,
+        "Longitude": 127.00862234320128
+      }
+    }
+  ],
+  "Source": "SRTM GL1 v3 (~30m), Open Topo Data; bilinear; elevation: EGM96 metres",
+  "RetrievedAt": "2026-10-05T03:08:05.1305016+00:00",
+  "Minimum": 23,
+  "Maximum": 81
+}
